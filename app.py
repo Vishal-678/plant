@@ -171,4 +171,5 @@ def show_gallery():
     image_captions = {
         "apple_healthy.jpg": "Apple Leaf – Healthy",
         "corn_blight.jpg": "Corn – Northern Leaf Blight",
-        "tomato_leaf_mold.jpg": "Tomato – Leaf Mold",
+        "tomato_leaf_mold.jpg": "Tomato – Leaf Mold",}
+    
